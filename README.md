@@ -1,6 +1,6 @@
 # Student Classification using Gradient Boosting
 
-![Student Classification](path/to/your/image.png)
+![](145.png)
 
 ## Overview
 This project leverages **Gradient Boosting**, a powerful ensemble machine learning algorithm, to classify students based on their **exam scores** and **attendance percentages**. The model predicts the type of student, enabling educators and administrators to better understand student performance patterns.
