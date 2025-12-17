@@ -3,7 +3,7 @@
 ![](145.png)
 
 ## Overview
-This project leverages **Gradient Boosting**, a powerful ensemble machine learning algorithm, to classify students based on their **exam scores** and **attendance percentages**. The model predicts the type of student, enabling educators and administrators to better understand student performance patterns.
+This project leverages **Gradient Boosting**, a powerful ensemble machine learning algorithm, to classify students based on their **exam scores** and **attendance percentages**. The model predicts the type of student, which will enable any software that deals with student or educators and administrators to better understand student performance patterns.
 
 ## Features
 - Predicts student categories using academic performance and attendance data.
@@ -14,6 +14,7 @@ This project leverages **Gradient Boosting**, a powerful ensemble machine learni
 The dataset includes:
 - **Exam Scores:** Numeric values representing student performance in exams.
 - **Attendance Percentages:** Numeric values representing class attendance rates.
+- **Other Features** Numeric and categorical
 
 ## Model
 - **Algorithm:** Gradient Boosting Classifier
